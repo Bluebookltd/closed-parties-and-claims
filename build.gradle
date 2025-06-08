@@ -95,8 +95,7 @@ subprojects {
                 "fabric_extension_create_breaks_range": fabric_extension_create_breaks_range,
                 "java_fabric_range": java_fabric_range,
                 "homepage": homepage,
-                "sources": sources,
-                "issues": issues
+                "sources": sources
         ]
 
         filesMatching(['pack.mcmeta', 'fabric.mod.json', 'META-INF/mods.toml', '*.mixins.json']) {
